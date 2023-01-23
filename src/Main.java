@@ -43,6 +43,5 @@ public class Main {
             result = first * second;
             JOptionPane.showMessageDialog(null, "Результат: " + result, "Вывод данных", JOptionPane.INFORMATION_MESSAGE);
         }
-        JOptionPane.action;
     }
 }
