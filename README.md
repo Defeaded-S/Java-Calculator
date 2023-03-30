@@ -1,2 +1,2 @@
 # Java-Calculator
-This is Simple Calculator on Java with using JOptionPane library.
+Это простой калькулятор на Java с использованием библиотеки JOptionPane.
